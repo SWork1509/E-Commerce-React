@@ -1,3 +1,6 @@
+# Deployed
+# https://ecommerce-react15.netlify.app
+
 ## Notes
 
 #### Older React Version
