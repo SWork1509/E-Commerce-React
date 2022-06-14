@@ -1,5 +1,5 @@
-# Deployed
-# https://ecommerce-react15.netlify.app
+#### Deployed
+https://ecommerce-react15.netlify.app
 
 ## Notes
 
